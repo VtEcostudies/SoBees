@@ -1,0 +1,18 @@
+[submodule "SoBees_LandingPage"]
+	path = SoBees_LandingPage
+	url = https://github.com/VtEcostudies/SoBees_LandingPage.git
+[submodule "SoBees_Conservation"]
+	path = SoBees_Conservation
+	url = https://github.com/VtEcostudies/SoBees_Conservation.git
+[submodule "SoBees_Threats"]
+	path = SoBees_Threats
+	url = https://github.com/VtEcostudies/SoBees_Threats.git
+[submodule "SoBees_Current_Knowledge"]
+	path = SoBees_Current_Knowledge
+	url = https://github.com/VtEcostudies/SoBees_Current_Knowledge.git
+[submodule "SoBees_Next_Steps"]
+	path = SoBees_Next_Steps
+	url = https://github.com/VtEcostudies/SoBees_Next_Steps.git
+[submodule "SoBees_Acknowledgements"]
+	path = SoBees_Acknowledgements
+	url = https://github.com/VtEcostudies/SoBees_Acknowledgements.git
