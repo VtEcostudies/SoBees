@@ -7,4 +7,4 @@ git clone https://github.com/VtEcostudies/SoBees.git --recurse-submodules
 ```
 Also: this repo is used to release the SoBees product with a DOI.
 
-These are edits in MS Edge!
+These are edits in Firefox
